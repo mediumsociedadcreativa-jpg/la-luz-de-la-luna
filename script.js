@@ -5,7 +5,7 @@ const paginasCuento = [
     imagen: "imagenes/escena1.webp",
     audio: "audios/lectura1.webp",
     objeto1: {
-      src: "imagenes/gato1.png",
+      src: "imagenes/gato1.webp",
       postura: "postura-asustado",
       coordenadas: { top: "50%", left: "23%" }
     },
