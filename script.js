@@ -10,7 +10,9 @@ const paginasCuento = [
       coordenadas: { top: "50%", left: "23%" }
     },
     objeto2: {
-      src: "", 
+      src: "imagenes/mariposa.webp", 
+      postura: "postura-mareado",
+      coordenadas: { top: "45%", left: "28%" }
     }
   },
   {
